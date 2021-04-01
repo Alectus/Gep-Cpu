@@ -1,0 +1,975 @@
+<circuit type="simulide_0.4" noLinAcc="5" animate="1" reactStep="50" Speed_sps="1000000" Speed_per="100" Simu_Step_nS="1000">
+
+Unique  Id: Package-119: 
+Circuit Id: 74LS624
+<item Width="6" boardPos="-1e+06,-1e+06" labelx="5" itemtype="Package" Logic_Symbol="false" Show_id="true" labelrot="0" x="-400" objectName="Package-119" Package_File="C:/Users/odion/SimulIDE_0.4.14-SR4_Win64/SimulIDE_0.4.14-SR4_Win64/share/simulide/data" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" y="-236" labely="101" valLabRot="0" valLabely="0" Background="" boardRot="-1000000" vflip="1" rotation="0" id="74LS624" Height="12" circRot="0"/>
+
+Unique  Id: Clock-118: 
+Circuit Id: Clock-4
+<item boardPos="-1e+06,-1e+06" labelx="-64" itemtype="Clock" Show_id="false" Freq="1" labelrot="0" x="-360" Running="true" Unit=" V" Out="false" objectName="Clock-118" Voltage="5" circPos="0,0" mainComp="false" valLabelx="-16" hflip="1" Show_Volt="false" y="-208" labely="-24" valLabRot="0" valLabely="8" boardRot="-1000000" vflip="1" rotation="0" id="Clock-4" circRot="3"/>
+
+Unique  Id: Fixed Voltage-117: 
+Circuit Id: Fixed Voltage-5
+<item boardPos="-1e+06,-1e+06" labelx="-64" itemtype="Fixed Voltage" Show_id="false" labelrot="0" x="-360" Unit=" V" Out="true" objectName="Fixed Voltage-117" Voltage="5" circPos="0,0" mainComp="false" valLabelx="-16" hflip="1" Show_Volt="false" y="-168" labely="-24" valLabRot="0" valLabely="8" boardRot="-1000000" vflip="1" rotation="0" id="Fixed Voltage-5" circRot="6.7267266592571253e-312"/>
+
+Unique  Id: Rectangle-116: 
+Circuit Id: Voltage Controlled Oscillator
+<item boardPos="-1e+06,-1e+06" labelx="-65" Opacity="1" itemtype="Rectangle" Show_id="true" labelrot="0" Color="#00ff00" x="-324" objectName="Rectangle-116" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" y="-104" labely="-6" Z_Value="-1" valLabRot="0" valLabely="0" H_size="150" boardRot="-1000000" vflip="1" V_size="20" Border="2" rotation="0" id="Voltage Controlled Oscillator" circRot="3.4281887116468076e-316"/>
+
+Unique  Id: 74XX93-115: 
+Circuit Id: 74LS93-Counter
+<item boardPos="-1e+06,-1e+06" labelx="-28" itemtype="Subcircuit" Logic_Symbol="false" Show_id="true" labelrot="0" x="-248" objectName="74XX93-115" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" y="432" labely="74" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="74LS93-Counter" circRot="9.3013826142616424e-317"/>
+
+Unique  Id: Fixed Voltage-114: 
+Circuit Id: Fixed Voltage-5
+<item boardPos="-1e+06,-1e+06" labelx="-64" itemtype="Fixed Voltage" Show_id="false" labelrot="0" x="-348" Unit=" V" Out="false" objectName="Fixed Voltage-114" Voltage="5" circPos="0,0" mainComp="false" valLabelx="-16" hflip="1" Show_Volt="false" y="416" labely="-24" valLabRot="0" valLabely="8" boardRot="-1000000" vflip="1" rotation="0" id="Fixed Voltage-5" circRot="6.7267266592571253e-312"/>
+
+Unique  Id: Fixed Voltage-113: 
+Circuit Id: Fixed Voltage-5
+<item boardPos="-1e+06,-1e+06" labelx="-64" itemtype="Fixed Voltage" Show_id="false" labelrot="0" x="-348" Unit=" V" Out="true" objectName="Fixed Voltage-113" Voltage="5" circPos="0,0" mainComp="false" valLabelx="-16" hflip="1" Show_Volt="false" y="436" labely="-24" valLabRot="0" valLabely="8" boardRot="-1000000" vflip="1" rotation="0" id="Fixed Voltage-5" circRot="6.7267266592571253e-312"/>
+
+Unique  Id: Fixed Voltage-112: 
+Circuit Id: Fixed Voltage-5
+<item boardPos="-1e+06,-1e+06" labelx="-64" itemtype="Fixed Voltage" Show_id="false" labelrot="0" x="-348" Unit=" V" Out="true" objectName="Fixed Voltage-112" Voltage="5" circPos="0,0" mainComp="false" valLabelx="-16" hflip="1" Show_Volt="false" y="456" labely="-24" valLabRot="0" valLabely="8" boardRot="-1000000" vflip="1" rotation="0" id="Fixed Voltage-5" circRot="6.7267266592571253e-312"/>
+
+Unique  Id: Fixed Voltage-111: 
+Circuit Id: Fixed Voltage-5
+<item boardPos="-1e+06,-1e+06" labelx="-64" itemtype="Fixed Voltage" Show_id="false" labelrot="0" x="-232" Unit=" V" Out="false" objectName="Fixed Voltage-111" Voltage="5" circPos="0,0" mainComp="false" valLabelx="-16" hflip="1" Show_Volt="false" y="392" labely="-24" valLabRot="0" valLabely="8" boardRot="-1000000" vflip="1" rotation="0" id="Fixed Voltage-5" circRot="6.7267266592571253e-312"/>
+
+Unique  Id: Probe-110: 
+Circuit Id: Probe-12
+<item boardPos="-1e+06,-1e+06" labelx="16" itemtype="Probe" Show_id="false" labelrot="45" x="-152" objectName="Probe-110" Show_volt="false" circPos="0,0" mainComp="false" valLabelx="16" hflip="1" y="440" labely="-16" valLabRot="45" valLabely="0" boardRot="-1000000" vflip="1" rotation="-45" id="Probe-12" Threshold="2.5" circRot="0"/>
+
+Unique  Id: Probe-109: 
+Circuit Id: Probe-12
+<item boardPos="-1e+06,-1e+06" labelx="16" itemtype="Probe" Show_id="false" labelrot="45" x="-152" objectName="Probe-109" Show_volt="false" circPos="0,0" mainComp="false" valLabelx="16" hflip="1" y="456" labely="-16" valLabRot="45" valLabely="0" boardRot="-1000000" vflip="1" rotation="-45" id="Probe-12" Threshold="2.5" circRot="0"/>
+
+Unique  Id: Probe-108: 
+Circuit Id: Probe-12
+<item boardPos="-1e+06,-1e+06" labelx="16" itemtype="Probe" Show_id="false" labelrot="45" x="-152" objectName="Probe-108" Show_volt="false" circPos="0,0" mainComp="false" valLabelx="16" hflip="1" y="472" labely="-16" valLabRot="45" valLabely="0" boardRot="-1000000" vflip="1" rotation="-45" id="Probe-12" Threshold="2.5" circRot="0"/>
+
+Unique  Id: Probe-107: 
+Circuit Id: Probe-12
+<item boardPos="-1e+06,-1e+06" labelx="16" itemtype="Probe" Show_id="false" labelrot="45" x="-152" objectName="Probe-107" Show_volt="false" circPos="0,0" mainComp="false" valLabelx="16" hflip="1" y="488" labely="-16" valLabRot="45" valLabely="0" boardRot="-1000000" vflip="1" rotation="-45" id="Probe-12" Threshold="2.5" circRot="0"/>
+
+Unique  Id: 74XX93-106: 
+Circuit Id: 74LS93-Counter
+<item boardPos="-1e+06,-1e+06" labelx="-14" itemtype="Subcircuit" Logic_Symbol="false" Show_id="true" labelrot="0" x="-188" objectName="74XX93-106" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" y="-220" labely="69" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="74LS93-Counter" circRot="9.3013826142616424e-317"/>
+
+Unique  Id: Switch-105: 
+Circuit Id: Switch-26
+<item Poles="1" boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Switch" Show_id="false" labelrot="0" x="-304" objectName="Switch-105" circPos="0,0" mainComp="false" valLabelx="0" hflip="-1" y="-184" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Switch-26" Key="" DT="true" circRot="-5.4861292803319049e+303" Norm_Close="false"/>
+
+Unique  Id: Fixed Voltage-104: 
+Circuit Id: Fixed Voltage-5
+<item boardPos="-1e+06,-1e+06" labelx="-64" itemtype="Fixed Voltage" Show_id="false" labelrot="0" x="-280" Unit=" V" Out="false" objectName="Fixed Voltage-104" Voltage="5" circPos="0,0" mainComp="false" valLabelx="-16" hflip="1" Show_Volt="false" y="-136" labely="-24" valLabRot="0" valLabely="8" boardRot="-1000000" vflip="1" rotation="0" id="Fixed Voltage-5" circRot="6.7267266592571253e-312"/>
+
+Unique  Id: Tunnel-103: 
+Circuit Id: Tunnel-33
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Tunnel" Show_id="false" labelrot="0" Name="RESET" x="-260" objectName="Tunnel-103" circPos="0,0" mainComp="false" Rotated="true" valLabelx="0" hflip="1" y="-136" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Tunnel-33" Uid="" circRot="0"/>
+
+Unique  Id: Tunnel-102: 
+Circuit Id: Tunnel-35
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Tunnel" Show_id="false" labelrot="0" Name="RESET" x="-224" objectName="Tunnel-102" circPos="0,0" mainComp="false" Rotated="false" valLabelx="0" hflip="1" y="-184" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Tunnel-35" Uid="" circRot="0"/>
+
+Unique  Id: Node-101: 
+Circuit Id: Node-38
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Node" Show_id="false" labelrot="0" x="-212" objectName="Node-101" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" y="-196" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Node-38" circRot="nan"/>
+
+Unique  Id: Probe-100: 
+Circuit Id: Probe-12
+<item boardPos="-1e+06,-1e+06" labelx="16" itemtype="Probe" Show_id="false" labelrot="45" x="-60" objectName="Probe-100" Show_volt="false" circPos="0,0" mainComp="false" valLabelx="16" hflip="1" y="-228" labely="-16" valLabRot="45" valLabely="0" boardRot="-1000000" vflip="1" rotation="-45" id="Probe-12" Threshold="2.5" circRot="0"/>
+
+Unique  Id: Probe-99: 
+Circuit Id: LSB
+<item boardPos="-1e+06,-1e+06" labelx="13" itemtype="Probe" Show_id="true" labelrot="45" x="-44" objectName="Probe-99" Show_volt="false" circPos="0,0" mainComp="false" valLabelx="16" hflip="1" y="-228" labely="4" valLabRot="45" valLabely="0" boardRot="-1000000" vflip="1" rotation="-45" id="LSB" Threshold="2.5" circRot="0"/>
+
+Unique  Id: Probe-98: 
+Circuit Id: Probe-12
+<item boardPos="-1e+06,-1e+06" labelx="16" itemtype="Probe" Show_id="false" labelrot="45" x="-76" objectName="Probe-98" Show_volt="false" circPos="0,0" mainComp="false" valLabelx="16" hflip="1" y="-228" labely="-16" valLabRot="45" valLabely="0" boardRot="-1000000" vflip="1" rotation="-45" id="Probe-12" Threshold="2.5" circRot="0"/>
+
+Unique  Id: Probe-97: 
+Circuit Id: Probe-12
+<item boardPos="-1e+06,-1e+06" labelx="16" itemtype="Probe" Show_id="false" labelrot="45" x="-92" objectName="Probe-97" Show_volt="false" circPos="0,0" mainComp="false" valLabelx="16" hflip="1" y="-228" labely="-16" valLabRot="45" valLabely="0" boardRot="-1000000" vflip="1" rotation="-45" id="Probe-12" Threshold="2.5" circRot="0"/>
+
+Unique  Id: Memory-96: 
+Circuit Id: M2716
+<item boardPos="-1e+06,-1e+06" labelx="-6" itemtype="Memory" Show_id="true" labelrot="-90" x="-28" Address_Bits="6" objectName="Memory-96" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" y="-84" labely="9" Persistent="true" valLabRot="0" Data_Bits="8" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="M2716" Mem="255,127,191,255,255,223,255,255,255,223,255,255,255,253,255,255,255,239,255,255,255,247,255,255,255,251,255,255,255,254,255,255,255,254,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,223,255,255,255,255,255,255,255,255,255,255" circRot="inf"/>
+
+Unique  Id: Node-95: 
+Circuit Id: Node-56
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Node" Show_id="false" labelrot="0" x="-124" objectName="Node-95" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" y="-196" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Node-56" circRot="nan"/>
+
+Unique  Id: Node-94: 
+Circuit Id: Node-61
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Node" Show_id="false" labelrot="0" x="-60" objectName="Node-94" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" y="-196" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Node-61" circRot="nan"/>
+
+Unique  Id: Node-93: 
+Circuit Id: Node-64
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Node" Show_id="false" labelrot="0" x="-76" objectName="Node-93" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" y="-172" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Node-64" circRot="nan"/>
+
+Unique  Id: Rail-92: 
+Circuit Id: Rail-71
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Rail" Show_id="false" labelrot="0" x="-64" Unit=" V" objectName="Rail-92" Voltage="5" circPos="0,0" mainComp="false" valLabelx="-16" hflip="1" Show_Volt="false" y="-8" labely="-24" valLabRot="0" valLabely="8" boardRot="-1000000" vflip="1" rotation="-90" id="Rail-71" circRot="0"/>
+
+Unique  Id: Ground-91: 
+Circuit Id: Ground-73
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Ground" Show_id="false" labelrot="0" x="-28" objectName="Ground-91" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" y="-4" labely="8" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Ground-73" circRot="nan"/>
+
+Unique  Id: Node-90: 
+Circuit Id: Node-76
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Node" Show_id="false" labelrot="0" x="-28" objectName="Node-90" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" y="-28" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Node-76" circRot="nan"/>
+
+Unique  Id: Node-89: 
+Circuit Id: Node-76
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Node" Show_id="false" labelrot="0" x="-28" objectName="Node-89" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" y="156" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Node-76" circRot="nan"/>
+
+Unique  Id: Rail-88: 
+Circuit Id: Rail-71
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Rail" Show_id="false" labelrot="0" x="-64" Unit=" V" objectName="Rail-88" Voltage="5" circPos="0,0" mainComp="false" valLabelx="-16" hflip="1" Show_Volt="false" y="176" labely="-24" valLabRot="0" valLabely="8" boardRot="-1000000" vflip="1" rotation="-90" id="Rail-71" circRot="0"/>
+
+Unique  Id: Memory-87: 
+Circuit Id: M2716
+<item boardPos="-1e+06,-1e+06" labelx="-6" itemtype="Memory" Show_id="true" labelrot="-90" x="-28" Address_Bits="6" objectName="Memory-87" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" y="100" labely="9" Persistent="true" valLabRot="0" Data_Bits="8" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="M2716" Mem="255,255,255,255,253,255,255,253,251,255,255,251,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,253,255,255,253,251,255,255,251,255,239,255,255,255,127,239,255,255,191,239,255,255,223,239,255,254,255,255,254,251,247,255,251,255,255,255,255" circRot="inf"/>
+
+Unique  Id: Ground-86: 
+Circuit Id: Ground-73
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Ground" Show_id="false" labelrot="0" x="-28" objectName="Ground-86" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" y="180" labely="8" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Ground-73" circRot="nan"/>
+
+Unique  Id: Node-85: 
+Circuit Id: Node-92
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Node" Show_id="false" labelrot="0" x="-60" objectName="Node-85" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" y="-116" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Node-92" circRot="nan"/>
+
+Unique  Id: Node-84: 
+Circuit Id: Node-95
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Node" Show_id="false" labelrot="0" x="-68" objectName="Node-84" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" y="-108" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Node-95" circRot="nan"/>
+
+Unique  Id: And Gate-83: 
+Circuit Id: And Gate-103
+<item Out_Imped="40" boardPos="-1e+06,-1e+06" labelx="-16" itemtype="And Gate" Inverted="false" Show_id="false" Input_Low_V="2.5" labelrot="0" Out_High_V="5" x="-144" Out_Low_V="0" objectName="And Gate-83" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" Input_Imped="100000000000000" y="-100" Open_Collector="false" labely="-24" valLabRot="0" Num_Inputs="2" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="And Gate-103" Input_High_V="2.5" circRot="inf"/>
+
+Unique  Id: Node-82: 
+Circuit Id: Node-105
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Node" Show_id="false" labelrot="0" x="-116" objectName="Node-82" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" y="-164" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Node-105" circRot="nan"/>
+
+Unique  Id: Node-81: 
+Circuit Id: Node-108
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Node" Show_id="false" labelrot="0" x="-92" objectName="Node-81" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" y="-100" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Node-108" circRot="1.358077306207893e-312"/>
+
+Unique  Id: Tunnel-80: 
+Circuit Id: Tunnel-110
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Tunnel" Show_id="false" labelrot="0" Name="INS0" x="-200" objectName="Tunnel-80" circPos="0,0" mainComp="false" Rotated="false" valLabelx="0" hflip="1" y="-96" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Tunnel-110" Uid="" circRot="0"/>
+
+Unique  Id: And Gate-79: 
+Circuit Id: And Gate-103
+<item Out_Imped="40" boardPos="-1e+06,-1e+06" labelx="-16" itemtype="And Gate" Inverted="false" Show_id="false" Input_Low_V="2.5" labelrot="0" Out_High_V="5" x="-144" Out_Low_V="0" objectName="And Gate-79" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" Input_Imped="100000000000000" y="-60" Open_Collector="false" labely="-24" valLabRot="0" Num_Inputs="2" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="And Gate-103" Input_High_V="2.5" circRot="inf"/>
+
+Unique  Id: And Gate-78: 
+Circuit Id: And Gate-103
+<item Out_Imped="40" boardPos="-1e+06,-1e+06" labelx="-16" itemtype="And Gate" Inverted="false" Show_id="false" Input_Low_V="2.5" labelrot="0" Out_High_V="5" x="-144" Out_Low_V="0" objectName="And Gate-78" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" Input_Imped="100000000000000" y="-20" Open_Collector="false" labely="-24" valLabRot="0" Num_Inputs="2" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="And Gate-103" Input_High_V="2.5" circRot="inf"/>
+
+Unique  Id: And Gate-77: 
+Circuit Id: And Gate-103
+<item Out_Imped="40" boardPos="-1e+06,-1e+06" labelx="-16" itemtype="And Gate" Inverted="false" Show_id="false" Input_Low_V="2.5" labelrot="0" Out_High_V="5" x="-140" Out_Low_V="0" objectName="And Gate-77" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" Input_Imped="100000000000000" y="20" Open_Collector="false" labely="-24" valLabRot="0" Num_Inputs="2" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="And Gate-103" Input_High_V="2.5" circRot="inf"/>
+
+Unique  Id: Node-76: 
+Circuit Id: Node-116
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Node" Show_id="false" labelrot="0" x="-180" objectName="Node-76" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" y="-104" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Node-116" circRot="3.1051689876483173e-316"/>
+
+Unique  Id: Node-75: 
+Circuit Id: Node-119
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Node" Show_id="false" labelrot="0" x="-180" objectName="Node-75" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" y="-64" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Node-119" circRot="1.0236025586772652e-306"/>
+
+Unique  Id: Node-74: 
+Circuit Id: Node-122
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Node" Show_id="false" labelrot="0" x="-180" objectName="Node-74" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" y="-24" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Node-122" circRot="1.358077306207893e-312"/>
+
+Unique  Id: Tunnel-73: 
+Circuit Id: Tunnel-124
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Tunnel" Show_id="false" labelrot="0" Name="INS1" x="-200" objectName="Tunnel-73" circPos="0,0" mainComp="false" Rotated="false" valLabelx="0" hflip="1" y="-56" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Tunnel-124" Uid="" circRot="0"/>
+
+Unique  Id: Tunnel-72: 
+Circuit Id: Tunnel-125
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Tunnel" Show_id="false" labelrot="0" Name="INS2" x="-200" objectName="Tunnel-72" circPos="0,0" mainComp="false" Rotated="false" valLabelx="0" hflip="1" y="-16" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Tunnel-125" Uid="" circRot="0"/>
+
+Unique  Id: Tunnel-71: 
+Circuit Id: Tunnel-126
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Tunnel" Show_id="false" labelrot="0" Name="INS3" x="-200" objectName="Tunnel-71" circPos="0,0" mainComp="false" Rotated="false" valLabelx="0" hflip="1" y="24" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Tunnel-126" Uid="" circRot="0"/>
+
+Unique  Id: Node-70: 
+Circuit Id: Node-131
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Node" Show_id="false" labelrot="0" x="-96" objectName="Node-70" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" y="-60" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Node-131" circRot="3.1051689876483173e-316"/>
+
+Unique  Id: Node-69: 
+Circuit Id: Node-134
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Node" Show_id="false" labelrot="0" x="-100" objectName="Node-69" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" y="-20" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Node-134" circRot="nan"/>
+
+Unique  Id: Node-68: 
+Circuit Id: Node-137
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Node" Show_id="false" labelrot="0" x="-104" objectName="Node-68" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" y="20" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Node-137" circRot="6.3659874361362196e-314"/>
+
+Unique  Id: 74HC74-67: 
+Circuit Id: 74LS74-DFF
+<item boardPos="-1e+06,-1e+06" labelx="0" itemtype="Subcircuit" Logic_Symbol="false" Show_id="true" labelrot="0" x="180" objectName="74HC74-67" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" y="452" labely="-20" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="74LS74-DFF" circRot="9.506541144789228e-312"/>
+
+Unique  Id: FlipFlopD-66: 
+Circuit Id: 74LS74-DFF
+<item Out_Imped="40" boardPos="-1e+06,-1e+06" labelx="-14" itemtype="FlipFlopD" Trigger="1" Show_id="true" Input_Low_V="2.5" labelrot="0" Out_High_V="5" x="188" Out_Low_V="0" objectName="FlipFlopD-66" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" Input_Imped="100000000000000" y="332" labely="50" Clock_Inverted="false" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="74LS74-DFF" S_R_Inverted="true" Input_High_V="2.5" circRot="nan"/>
+
+Unique  Id: Fixed Voltage-65: 
+Circuit Id: Fixed Voltage-5
+<item boardPos="-1e+06,-1e+06" labelx="-64" itemtype="Fixed Voltage" Show_id="false" labelrot="0" x="128" Unit=" V" Out="true" objectName="Fixed Voltage-65" Voltage="5" circPos="0,0" mainComp="false" valLabelx="-16" hflip="1" Show_Volt="false" y="372" labely="-24" valLabRot="0" valLabely="8" boardRot="-1000000" vflip="1" rotation="0" id="Fixed Voltage-5" circRot="6.7267266592571253e-312"/>
+
+Unique  Id: Fixed Voltage-64: 
+Circuit Id: Fixed Voltage-5
+<item boardPos="-1e+06,-1e+06" labelx="-64" itemtype="Fixed Voltage" Show_id="false" labelrot="0" x="124" Unit=" V" Out="true" objectName="Fixed Voltage-64" Voltage="5" circPos="0,0" mainComp="false" valLabelx="-16" hflip="1" Show_Volt="false" y="304" labely="-24" valLabRot="0" valLabely="8" boardRot="-1000000" vflip="1" rotation="0" id="Fixed Voltage-5" circRot="6.7267266592571253e-312"/>
+
+Unique  Id: Fixed Voltage-63: 
+Circuit Id: Fixed Voltage-5
+<item boardPos="-1e+06,-1e+06" labelx="-64" itemtype="Fixed Voltage" Show_id="false" labelrot="0" x="84" Unit=" V" Out="false" objectName="Fixed Voltage-63" Voltage="5" circPos="0,0" mainComp="false" valLabelx="-16" hflip="1" Show_Volt="false" y="340" labely="-24" valLabRot="0" valLabely="8" boardRot="-1000000" vflip="1" rotation="0" id="Fixed Voltage-5" circRot="6.7267266592571253e-312"/>
+
+Unique  Id: Fixed Voltage-62: 
+Circuit Id: Fixed Voltage-5
+<item boardPos="-1e+06,-1e+06" labelx="-64" itemtype="Fixed Voltage" Show_id="false" labelrot="0" x="132" Unit=" V" Out="true" objectName="Fixed Voltage-62" Voltage="5" circPos="0,0" mainComp="false" valLabelx="-16" hflip="1" Show_Volt="false" y="448" labely="-24" valLabRot="0" valLabely="8" boardRot="-1000000" vflip="1" rotation="0" id="Fixed Voltage-5" circRot="6.7267266592571253e-312"/>
+
+Unique  Id: Fixed Voltage-61: 
+Circuit Id: Fixed Voltage-5
+<item boardPos="-1e+06,-1e+06" labelx="-64" itemtype="Fixed Voltage" Show_id="false" labelrot="0" x="12" Unit=" V" Out="true" objectName="Fixed Voltage-61" Voltage="5" circPos="0,0" mainComp="false" valLabelx="-16" hflip="1" Show_Volt="false" y="440" labely="-24" valLabRot="0" valLabely="8" boardRot="-1000000" vflip="1" rotation="0" id="Fixed Voltage-5" circRot="6.7267266592571253e-312"/>
+
+Unique  Id: Fixed Voltage-60: 
+Circuit Id: Fixed Voltage-5
+<item boardPos="-1e+06,-1e+06" labelx="-64" itemtype="Fixed Voltage" Show_id="false" labelrot="0" x="12" Unit=" V" Out="false" objectName="Fixed Voltage-60" Voltage="5" circPos="0,0" mainComp="false" valLabelx="-16" hflip="1" Show_Volt="false" y="420" labely="-24" valLabRot="0" valLabely="8" boardRot="-1000000" vflip="1" rotation="0" id="Fixed Voltage-5" circRot="6.7267266592571253e-312"/>
+
+Unique  Id: Fixed Voltage-59: 
+Circuit Id: Fixed Voltage-5
+<item boardPos="-1e+06,-1e+06" labelx="-64" itemtype="Fixed Voltage" Show_id="false" labelrot="0" x="12" Unit=" V" Out="true" objectName="Fixed Voltage-59" Voltage="5" circPos="0,0" mainComp="false" valLabelx="-16" hflip="1" Show_Volt="false" y="528" labely="-24" valLabRot="0" valLabely="8" boardRot="-1000000" vflip="1" rotation="0" id="Fixed Voltage-5" circRot="6.7267266592571253e-312"/>
+
+Unique  Id: Fixed Voltage-58: 
+Circuit Id: Fixed Voltage-5
+<item boardPos="-1e+06,-1e+06" labelx="-64" itemtype="Fixed Voltage" Show_id="false" labelrot="0" x="132" Unit=" V" Out="true" objectName="Fixed Voltage-58" Voltage="5" circPos="0,0" mainComp="false" valLabelx="-16" hflip="1" Show_Volt="false" y="504" labely="-24" valLabRot="0" valLabely="8" boardRot="-1000000" vflip="1" rotation="0" id="Fixed Voltage-5" circRot="6.7267266592571253e-312"/>
+
+Unique  Id: Fixed Voltage-57: 
+Circuit Id: Fixed Voltage-5
+<item boardPos="-1e+06,-1e+06" labelx="-64" itemtype="Fixed Voltage" Show_id="false" labelrot="0" x="84" Unit=" V" Out="false" objectName="Fixed Voltage-57" Voltage="5" circPos="0,0" mainComp="false" valLabelx="-16" hflip="1" Show_Volt="false" y="476" labely="-24" valLabRot="0" valLabely="8" boardRot="-1000000" vflip="1" rotation="0" id="Fixed Voltage-5" circRot="6.7267266592571253e-312"/>
+
+Unique  Id: Probe-56: 
+Circuit Id: Probe-12
+<item boardPos="-1e+06,-1e+06" labelx="16" itemtype="Probe" Show_id="false" labelrot="45" x="280" objectName="Probe-56" Show_volt="false" circPos="0,0" mainComp="false" valLabelx="16" hflip="1" y="288" labely="-16" valLabRot="45" valLabely="0" boardRot="-1000000" vflip="1" rotation="-45" id="Probe-12" Threshold="2.5" circRot="0"/>
+
+Unique  Id: Probe-55: 
+Circuit Id: Probe-12
+<item boardPos="-1e+06,-1e+06" labelx="16" itemtype="Probe" Show_id="false" labelrot="45" x="292" objectName="Probe-55" Show_volt="false" circPos="0,0" mainComp="false" valLabelx="16" hflip="1" y="328" labely="-16" valLabRot="45" valLabely="0" boardRot="-1000000" vflip="1" rotation="-45" id="Probe-12" Threshold="2.5" circRot="0"/>
+
+Unique  Id: Probe-54: 
+Circuit Id: Probe-12
+<item boardPos="-1e+06,-1e+06" labelx="16" itemtype="Probe" Show_id="false" labelrot="45" x="-8" objectName="Probe-54" Show_volt="false" circPos="0,0" mainComp="false" valLabelx="16" hflip="1" y="320" labely="-16" valLabRot="45" valLabely="0" boardRot="-1000000" vflip="1" rotation="-45" id="Probe-12" Threshold="2.5" circRot="0"/>
+
+Unique  Id: Probe-53: 
+Circuit Id: Probe-12
+<item boardPos="-1e+06,-1e+06" labelx="16" itemtype="Probe" Show_id="false" labelrot="45" x="-32" objectName="Probe-53" Show_volt="false" circPos="0,0" mainComp="false" valLabelx="16" hflip="1" y="316" labely="-16" valLabRot="45" valLabely="0" boardRot="-1000000" vflip="1" rotation="-45" id="Probe-12" Threshold="2.5" circRot="0"/>
+
+Unique  Id: Probe-52: 
+Circuit Id: Probe-12
+<item boardPos="-1e+06,-1e+06" labelx="16" itemtype="Probe" Show_id="false" labelrot="45" x="280" objectName="Probe-52" Show_volt="false" circPos="0,0" mainComp="false" valLabelx="16" hflip="1" y="464" labely="-16" valLabRot="45" valLabely="0" boardRot="-1000000" vflip="1" rotation="-45" id="Probe-12" Threshold="2.5" circRot="0"/>
+
+Unique  Id: Probe-51: 
+Circuit Id: Probe-12
+<item boardPos="-1e+06,-1e+06" labelx="16" itemtype="Probe" Show_id="false" labelrot="45" x="300" objectName="Probe-51" Show_volt="false" circPos="0,0" mainComp="false" valLabelx="16" hflip="1" y="512" labely="-16" valLabRot="45" valLabely="0" boardRot="-1000000" vflip="1" rotation="-45" id="Probe-12" Threshold="2.5" circRot="0"/>
+
+Unique  Id: Probe-50: 
+Circuit Id: Probe-12
+<item boardPos="-1e+06,-1e+06" labelx="16" itemtype="Probe" Show_id="false" labelrot="45" x="-68" objectName="Probe-50" Show_volt="false" circPos="0,0" mainComp="false" valLabelx="16" hflip="1" y="360" labely="-16" valLabRot="45" valLabely="0" boardRot="-1000000" vflip="1" rotation="-45" id="Probe-12" Threshold="2.5" circRot="0"/>
+
+Unique  Id: Probe-49: 
+Circuit Id: Probe-12
+<item boardPos="-1e+06,-1e+06" labelx="16" itemtype="Probe" Show_id="false" labelrot="45" x="-68" objectName="Probe-49" Show_volt="false" circPos="0,0" mainComp="false" valLabelx="16" hflip="1" y="344" labely="-16" valLabRot="45" valLabely="0" boardRot="-1000000" vflip="1" rotation="-45" id="Probe-12" Threshold="2.5" circRot="0"/>
+
+Unique  Id: Buffer-48: 
+Circuit Id: Buffer-158
+<item Out_Imped="40" boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Buffer" Inverted="true" Show_id="false" Input_Low_V="2.5" labelrot="0" Out_High_V="5" Tristate="false" x="128" Out_Low_V="0" objectName="Buffer-48" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" Input_Imped="100000000000000" y="340" Open_Collector="false" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Buffer-158" Input_High_V="2.5" circRot="nan"/>
+
+Unique  Id: Buffer-47: 
+Circuit Id: Buffer-158
+<item Out_Imped="40" boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Buffer" Inverted="true" Show_id="false" Input_Low_V="2.5" labelrot="0" Out_High_V="5" Tristate="false" x="132" Out_Low_V="0" objectName="Buffer-47" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" Input_Imped="100000000000000" y="476" Open_Collector="false" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Buffer-158" Input_High_V="2.5" circRot="nan"/>
+
+Unique  Id: Node-46: 
+Circuit Id: Node-171
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Node" Show_id="false" labelrot="0" x="160" objectName="Node-46" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" y="500" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Node-171" circRot="6.3659874361362196e-314"/>
+
+Unique  Id: Node-45: 
+Circuit Id: Node-176
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Node" Show_id="false" labelrot="0" x="228" objectName="Node-45" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" y="340" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Node-176" circRot="7.066132294329537e-304"/>
+
+Unique  Id: TextComponent-44: 
+Circuit Id: TextComponent-179
+<item Fixed_Width="true" Margin="2" boardPos="-1e+06,-1e+06" labelx="-16" Opacity="1" Font="Helvetica [Cronyx]" itemtype="TextComponent" Font_Size="10" Show_id="false" labelrot="0" x="-100" objectName="TextComponent-44" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" y="444" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" Border="1" rotation="0" id="TextComponent-179" Text="Testing" circRot="4.4502920162251771e-308"/>
+
+Unique  Id: Buffer-43: 
+Circuit Id: Buffer-158
+<item Out_Imped="40" boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Buffer" Inverted="true" Show_id="false" Input_Low_V="2.5" labelrot="0" Out_High_V="5" Tristate="false" x="68" Out_Low_V="0" objectName="Buffer-43" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" Input_Imped="100000000000000" y="-124" Open_Collector="false" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Buffer-158" Input_High_V="2.5" circRot="nan"/>
+
+Unique  Id: Buffer-42: 
+Circuit Id: Buffer-158
+<item Out_Imped="40" boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Buffer" Inverted="true" Show_id="false" Input_Low_V="2.5" labelrot="0" Out_High_V="5" Tristate="false" x="68" Out_Low_V="0" objectName="Buffer-42" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" Input_Imped="100000000000000" y="-92" Open_Collector="false" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Buffer-158" Input_High_V="2.5" circRot="nan"/>
+
+Unique  Id: Tunnel-41: 
+Circuit Id: Tunnel-185
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Tunnel" Show_id="false" labelrot="0" Name="LTCHFLAG" x="356" objectName="Tunnel-41" circPos="0,0" mainComp="false" Rotated="true" valLabelx="0" hflip="1" y="-124" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Tunnel-185" Uid="" circRot="0"/>
+
+Unique  Id: Tunnel-40: 
+Circuit Id: Tunnel-187
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Tunnel" Show_id="false" labelrot="0" Name="/WR" x="356" objectName="Tunnel-40" circPos="0,0" mainComp="false" Rotated="true" valLabelx="0" hflip="1" y="-108" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Tunnel-187" Uid="" circRot="0"/>
+
+Unique  Id: Tunnel-39: 
+Circuit Id: Tunnel-190
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Tunnel" Show_id="false" labelrot="0" Name="LTCH REG" x="356" objectName="Tunnel-39" circPos="0,0" mainComp="false" Rotated="true" valLabelx="0" hflip="1" y="-92" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Tunnel-190" Uid="" circRot="0"/>
+
+Unique  Id: Tunnel-38: 
+Circuit Id: Tunnel-192
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Tunnel" Show_id="false" labelrot="0" Name="/DEC ACC" x="356" objectName="Tunnel-38" circPos="0,0" mainComp="false" Rotated="true" valLabelx="0" hflip="1" y="-80" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Tunnel-192" Uid="" circRot="0"/>
+
+Unique  Id: Tunnel-37: 
+Circuit Id: Tunnel-194
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Tunnel" Show_id="false" labelrot="0" Name="/INC ACC" x="356" objectName="Tunnel-37" circPos="0,0" mainComp="false" Rotated="true" valLabelx="0" hflip="1" y="-68" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Tunnel-194" Uid="" circRot="0"/>
+
+Unique  Id: Tunnel-36: 
+Circuit Id: Tunnel-196
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Tunnel" Show_id="false" labelrot="0" Name="/LD ACC" x="356" objectName="Tunnel-36" circPos="0,0" mainComp="false" Rotated="true" valLabelx="0" hflip="1" y="-56" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Tunnel-196" Uid="" circRot="0"/>
+
+Unique  Id: Buffer-35: 
+Circuit Id: Buffer-158
+<item Out_Imped="40" boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Buffer" Inverted="true" Show_id="false" Input_Low_V="2.5" labelrot="0" Out_High_V="5" Tristate="false" x="68" Out_Low_V="0" objectName="Buffer-35" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" Input_Imped="100000000000000" y="-44" Open_Collector="false" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Buffer-158" Input_High_V="2.5" circRot="nan"/>
+
+Unique  Id: Tunnel-34: 
+Circuit Id: Tunnel-199
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Tunnel" Show_id="false" labelrot="0" Name="INC PC" x="356" objectName="Tunnel-34" circPos="0,0" mainComp="false" Rotated="true" valLabelx="0" hflip="1" y="-44" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Tunnel-199" Uid="" circRot="0"/>
+
+Unique  Id: Buffer-33: 
+Circuit Id: Buffer-158
+<item Out_Imped="40" boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Buffer" Inverted="true" Show_id="false" Input_Low_V="2.5" labelrot="0" Out_High_V="5" Tristate="false" x="68" Out_Low_V="0" objectName="Buffer-33" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" Input_Imped="100000000000000" y="-24" Open_Collector="false" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Buffer-158" Input_High_V="2.5" circRot="nan"/>
+
+Unique  Id: Tunnel-32: 
+Circuit Id: Tunnel-204
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Tunnel" Show_id="false" labelrot="0" Name="LTCH INS" x="356" objectName="Tunnel-32" circPos="0,0" mainComp="false" Rotated="true" valLabelx="0" hflip="1" y="-24" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Tunnel-204" Uid="" circRot="0"/>
+
+Unique  Id: Buffer-31: 
+Circuit Id: Buffer-158
+<item Out_Imped="40" boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Buffer" Inverted="true" Show_id="false" Input_Low_V="2.5" labelrot="0" Out_High_V="5" Tristate="false" x="72" Out_Low_V="0" objectName="Buffer-31" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" Input_Imped="100000000000000" y="32" Open_Collector="false" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Buffer-158" Input_High_V="2.5" circRot="nan"/>
+
+Unique  Id: FlipFlopD-30: 
+Circuit Id: 74LS74-DFF
+<item Out_Imped="40" boardPos="-1e+06,-1e+06" labelx="-14" itemtype="FlipFlopD" Trigger="1" Show_id="false" Input_Low_V="2.5" labelrot="0" Out_High_V="5" x="144" Out_Low_V="0" objectName="FlipFlopD-30" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" Input_Imped="100000000000000" y="24" labely="50" Clock_Inverted="false" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="74LS74-DFF" S_R_Inverted="true" Input_High_V="2.5" circRot="nan"/>
+
+Unique  Id: FlipFlopD-29: 
+Circuit Id: 74LS74-DFF
+<item Out_Imped="40" boardPos="-1e+06,-1e+06" labelx="-14" itemtype="FlipFlopD" Trigger="1" Show_id="false" Input_Low_V="2.5" labelrot="0" Out_High_V="5" x="216" Out_Low_V="0" objectName="FlipFlopD-29" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" Input_Imped="100000000000000" y="52" labely="50" Clock_Inverted="false" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="74LS74-DFF" S_R_Inverted="true" Input_High_V="2.5" circRot="nan"/>
+
+Unique  Id: Buffer-28: 
+Circuit Id: Buffer-158
+<item Out_Imped="40" boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Buffer" Inverted="true" Show_id="false" Input_Low_V="2.5" labelrot="0" Out_High_V="5" Tristate="false" x="72" Out_Low_V="0" objectName="Buffer-28" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" Input_Imped="100000000000000" y="60" Open_Collector="false" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Buffer-158" Input_High_V="2.5" circRot="nan"/>
+
+Unique  Id: FlipFlopD-27: 
+Circuit Id: 74LS74-DFF
+<item Out_Imped="40" boardPos="-1e+06,-1e+06" labelx="-14" itemtype="FlipFlopD" Trigger="1" Show_id="false" Input_Low_V="2.5" labelrot="0" Out_High_V="5" x="288" Out_Low_V="0" objectName="FlipFlopD-27" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" Input_Imped="100000000000000" y="80" labely="50" Clock_Inverted="false" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="74LS74-DFF" S_R_Inverted="true" Input_High_V="2.5" circRot="nan"/>
+
+Unique  Id: Buffer-26: 
+Circuit Id: Buffer-158
+<item Out_Imped="40" boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Buffer" Inverted="true" Show_id="false" Input_Low_V="2.5" labelrot="0" Out_High_V="5" Tristate="false" x="72" Out_Low_V="0" objectName="Buffer-26" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" Input_Imped="100000000000000" y="88" Open_Collector="false" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Buffer-158" Input_High_V="2.5" circRot="nan"/>
+
+Unique  Id: Buffer-25: 
+Circuit Id: Buffer-158
+<item Out_Imped="40" boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Buffer" Inverted="true" Show_id="false" Input_Low_V="2.5" labelrot="0" Out_High_V="5" Tristate="false" x="104" Out_Low_V="0" objectName="Buffer-25" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" Input_Imped="100000000000000" y="108" Open_Collector="false" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Buffer-158" Input_High_V="2.5" circRot="nan"/>
+
+Unique  Id: Buffer-24: 
+Circuit Id: Buffer-158
+<item Out_Imped="40" boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Buffer" Inverted="true" Show_id="false" Input_Low_V="2.5" labelrot="0" Out_High_V="5" Tristate="false" x="76" Out_Low_V="0" objectName="Buffer-24" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" Input_Imped="100000000000000" y="140" Open_Collector="false" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Buffer-158" Input_High_V="2.5" circRot="nan"/>
+
+Unique  Id: Buffer-23: 
+Circuit Id: Buffer-158
+<item Out_Imped="40" boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Buffer" Inverted="true" Show_id="false" Input_Low_V="2.5" labelrot="0" Out_High_V="5" Tristate="false" x="104" Out_Low_V="0" objectName="Buffer-23" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" Input_Imped="100000000000000" y="156" Open_Collector="false" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Buffer-158" Input_High_V="2.5" circRot="nan"/>
+
+Unique  Id: Buffer-22: 
+Circuit Id: Buffer-158
+<item Out_Imped="40" boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Buffer" Inverted="true" Show_id="false" Input_Low_V="2.5" labelrot="0" Out_High_V="5" Tristate="false" x="76" Out_Low_V="0" objectName="Buffer-22" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" Input_Imped="100000000000000" y="172" Open_Collector="false" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Buffer-158" Input_High_V="2.5" circRot="nan"/>
+
+Unique  Id: Tunnel-21: 
+Circuit Id: Tunnel-232
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Tunnel" Show_id="false" labelrot="0" Name="/E INPUT" x="356" objectName="Tunnel-21" circPos="0,0" mainComp="false" Rotated="true" valLabelx="0" hflip="1" y="-4" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Tunnel-232" Uid="" circRot="0"/>
+
+Unique  Id: Node-20: 
+Circuit Id: Node-234
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Node" Show_id="false" labelrot="0" x="184" objectName="Node-20" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" y="-4" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Node-234" circRot="6.3659874361362196e-314"/>
+
+Unique  Id: Tunnel-19: 
+Circuit Id: Tunnel-236
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Tunnel" Show_id="false" labelrot="0" Name="/E INS DATA" x="356" objectName="Tunnel-19" circPos="0,0" mainComp="false" Rotated="true" valLabelx="0" hflip="1" y="24" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Tunnel-236" Uid="" circRot="0"/>
+
+Unique  Id: Node-18: 
+Circuit Id: Node-238
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Node" Show_id="false" labelrot="0" x="256" objectName="Node-18" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" y="24" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Node-238" circRot="nan"/>
+
+Unique  Id: Tunnel-17: 
+Circuit Id: Tunnel-240
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Tunnel" Show_id="false" labelrot="0" Name="/RD" x="356" objectName="Tunnel-17" circPos="0,0" mainComp="false" Rotated="true" valLabelx="0" hflip="1" y="52" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Tunnel-240" Uid="" circRot="0"/>
+
+Unique  Id: Node-16: 
+Circuit Id: Node-242
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Node" Show_id="false" labelrot="0" x="328" objectName="Node-16" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" y="52" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Node-242" circRot="nan"/>
+
+Unique  Id: Tunnel-15: 
+Circuit Id: Tunnel-244
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Tunnel" Show_id="false" labelrot="0" Name="OUT LTCH" x="356" objectName="Tunnel-15" circPos="0,0" mainComp="false" Rotated="true" valLabelx="0" hflip="1" y="116" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Tunnel-244" Uid="" circRot="0"/>
+
+Unique  Id: Tunnel-14: 
+Circuit Id: Tunnel-246
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Tunnel" Show_id="false" labelrot="0" Name="/RESTART" x="356" objectName="Tunnel-14" circPos="0,0" mainComp="false" Rotated="true" valLabelx="0" hflip="1" y="128" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Tunnel-246" Uid="" circRot="0"/>
+
+Unique  Id: Tunnel-13: 
+Circuit Id: Tunnel-249
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Tunnel" Show_id="false" labelrot="0" Name="JMPG" x="356" objectName="Tunnel-13" circPos="0,0" mainComp="false" Rotated="true" valLabelx="0" hflip="1" y="140" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Tunnel-249" Uid="" circRot="0"/>
+
+Unique  Id: Tunnel-12: 
+Circuit Id: Tunnel-252
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Tunnel" Show_id="false" labelrot="0" Name="JMPE" x="356" objectName="Tunnel-12" circPos="0,0" mainComp="false" Rotated="true" valLabelx="0" hflip="1" y="156" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Tunnel-252" Uid="" circRot="0"/>
+
+Unique  Id: Tunnel-11: 
+Circuit Id: Tunnel-255
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Tunnel" Show_id="false" labelrot="0" Name="JMPL" x="356" objectName="Tunnel-11" circPos="0,0" mainComp="false" Rotated="true" valLabelx="0" hflip="1" y="172" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Tunnel-255" Uid="" circRot="0"/>
+
+Unique  Id: Rail-10: 
+Circuit Id: Rail-71
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Rail" Show_id="false" labelrot="0" x="216" Unit=" V" objectName="Rail-10" Voltage="5" circPos="0,0" mainComp="false" valLabelx="-16" hflip="1" Show_Volt="false" y="-224" labely="-24" valLabRot="0" valLabely="8" boardRot="-1000000" vflip="-1" rotation="-90" id="Rail-71" circRot="0"/>
+
+Unique  Id: Resistor-9: 
+Circuit Id: Resistor-259
+<item boardPos="-1e+06,-1e+06" labelx="-12" itemtype="Resistor" Show_id="false" labelrot="0" x="216" Unit=" Ω" objectName="Resistor-9" circPos="0,0" mainComp="false" valLabelx="-25" hflip="1" Show_res="true" y="-176" labely="-20" valLabRot="-90" valLabely="-11" boardRot="-1000000" vflip="1" rotation="90" id="Resistor-259" Resistance="300" circRot="0"/>
+
+Unique  Id: Tunnel-8: 
+Circuit Id: Tunnel-268
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Tunnel" Show_id="false" labelrot="0" Name="/RESET" x="36" objectName="Tunnel-8" circPos="0,0" mainComp="false" Rotated="false" valLabelx="0" hflip="1" y="188" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Tunnel-268" Uid="" circRot="0"/>
+
+Unique  Id: Node-7: 
+Circuit Id: Node-271
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Node" Show_id="false" labelrot="0" x="224" objectName="Node-7" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" y="188" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Node-271" circRot="1.0236025586772652e-306"/>
+
+Unique  Id: Node-6: 
+Circuit Id: Node-274
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Node" Show_id="false" labelrot="0" x="152" objectName="Node-6" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" y="188" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Node-274" circRot="6.3659874361362196e-314"/>
+
+Unique  Id: Rectangle-5: 
+Circuit Id: ROM  0
+<item boardPos="-1e+06,-1e+06" labelx="-16" Opacity="1" itemtype="Rectangle" Show_id="true" labelrot="0" Color="#00ff00" x="-20" objectName="Rectangle-5" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" y="-148" labely="-6" Z_Value="-1" valLabRot="0" valLabely="0" H_size="50" boardRot="-1000000" vflip="1" V_size="20" Border="2" rotation="0" id="ROM  0" circRot="3.4281887116468076e-316"/>
+
+Unique  Id: Rectangle-4: 
+Circuit Id: ROM  1
+<item boardPos="-1e+06,-1e+06" labelx="-16" Opacity="1" itemtype="Rectangle" Show_id="true" labelrot="0" Color="#00ff00" x="-20" objectName="Rectangle-4" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" y="36" labely="-6" Z_Value="-1" valLabRot="0" valLabely="0" H_size="50" boardRot="-1000000" vflip="1" V_size="20" Border="2" rotation="0" id="ROM  1" circRot="3.4281887116468076e-316"/>
+
+Unique  Id: Node-3: 
+Circuit Id: Node-281
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Node" Show_id="false" labelrot="0" x="216" objectName="Node-3" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" y="-140" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Node-281" circRot="-5.4861292803319049e+303"/>
+
+Unique  Id: Node-2: 
+Circuit Id: Node-284
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Node" Show_id="false" labelrot="0" x="216" objectName="Node-2" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" y="-144" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Node-284" circRot="1.0236025586772652e-306"/>
+
+Unique  Id: Rectangle-1: 
+Circuit Id: 74LS74
+<item boardPos="-1e+06,-1e+06" labelx="-17" Opacity="1" itemtype="Rectangle" Show_id="true" labelrot="0" Color="#00ff00" x="368" objectName="Rectangle-1" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" y="84" labely="-6" Z_Value="-1" valLabRot="0" valLabely="0" H_size="50" boardRot="-1000000" vflip="1" V_size="20" Border="2" rotation="0" id="74LS74" circRot="3.4281887116468076e-316"/>
+
+Unique  Id: Connector-120: 
+Circuit Id: Connector-17
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Connector" Show_id="false" labelrot="0" endpinid="74XX93-115-Q0" x="-168" objectName="Connector-120" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" enodeid="Circ_eNode-121" y="504" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Connector-17" pointList="-168,504,-192,504,-192,456,-208,456" startpinid="Probe-107-inpin" circRot="0"/>
+
+Unique  Id: Connector-122: 
+Circuit Id: Connector-18
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Connector" Show_id="false" labelrot="0" endpinid="74XX93-115-Q1" x="-168" objectName="Connector-122" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" enodeid="Circ_eNode-123" y="488" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Connector-18" pointList="-168,488,-184,488,-184,480,-208,480" startpinid="Probe-108-inpin" circRot="0"/>
+
+Unique  Id: Connector-124: 
+Circuit Id: Connector-19
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Connector" Show_id="false" labelrot="0" endpinid="Probe-109-inpin" x="-208" objectName="Connector-124" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" enodeid="Circ_eNode-125" y="488" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Connector-19" pointList="-208,488,-196,488,-196,472,-168,472" startpinid="74XX93-115-Q2" circRot="0"/>
+
+Unique  Id: Connector-126: 
+Circuit Id: Connector-20
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Connector" Show_id="false" labelrot="0" endpinid="74XX93-115-Q3" x="-168" objectName="Connector-126" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" enodeid="Circ_eNode-127" y="456" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Connector-20" pointList="-168,456,-184,456,-184,464,-208,464" startpinid="Probe-110-inpin" circRot="0"/>
+
+Unique  Id: Connector-128: 
+Circuit Id: Connector-21
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Connector" Show_id="false" labelrot="0" endpinid="74XX93-115-CP1" x="-332" objectName="Connector-128" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" enodeid="Circ_eNode-129" y="416" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Connector-21" pointList="-332,416,-256,416,-256,440" startpinid="Fixed Voltage-114-outnod" circRot="0"/>
+
+Unique  Id: Connector-130: 
+Circuit Id: Connector-22
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Connector" Show_id="false" labelrot="0" endpinid="74XX93-115-MR1" x="-332" objectName="Connector-130" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" enodeid="Circ_eNode-131" y="436" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Connector-22" pointList="-332,436,-272,436,-272,448,-256,448" startpinid="Fixed Voltage-113-outnod" circRot="0"/>
+
+Unique  Id: Connector-132: 
+Circuit Id: Connector-23
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Connector" Show_id="false" labelrot="0" endpinid="Fixed Voltage-112-outnod" x="-256" objectName="Connector-132" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" enodeid="Circ_eNode-133" y="456" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Connector-23" pointList="-256,456,-332,456" startpinid="74XX93-115-MR2" circRot="0"/>
+
+Unique  Id: Connector-134: 
+Circuit Id: Connector-24
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Connector" Show_id="false" labelrot="0" endpinid="74XX93-115-CP0" x="-216" objectName="Connector-134" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" enodeid="Circ_eNode-135" y="392" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Connector-24" pointList="-216,392,-208,392,-208,440" startpinid="Fixed Voltage-111-outnod" circRot="0"/>
+
+Unique  Id: Connector-136: 
+Circuit Id: Connector-27
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Connector" Show_id="false" labelrot="0" endpinid="Switch-105-switch0pinN" x="-344" objectName="Connector-136" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" enodeid="Circ_eNode-137" y="-168" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Connector-27" pointList="-344,-168,-332,-168,-332,-184,-320,-184" startpinid="Fixed Voltage-117-outnod" circRot="0"/>
+
+Unique  Id: Connector-138: 
+Circuit Id: Connector-28
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Connector" Show_id="false" labelrot="0" endpinid="Switch-105-switch1pinN" x="-344" objectName="Connector-138" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" enodeid="Circ_eNode-139" y="-208" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Connector-28" pointList="-344,-208,-332,-208,-332,-192,-320,-192" startpinid="Clock-118-outnod" circRot="0"/>
+
+Unique  Id: Connector-140: 
+Circuit Id: Connector-34
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Connector" Show_id="false" labelrot="0" endpinid="Fixed Voltage-104-outnod" x="-260" objectName="Connector-140" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" enodeid="Circ_eNode-141" y="-136" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Connector-34" pointList="-260,-136,-264,-136" startpinid="Tunnel-103-pin" circRot="0"/>
+
+Unique  Id: Connector-142: 
+Circuit Id: Connector-36
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Connector" Show_id="false" labelrot="0" endpinid="Node-101-0" x="-224" objectName="Connector-142" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" enodeid="Circ_eNode-141" y="-184" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Connector-36" pointList="-224,-184,-212,-184,-212,-196" startpinid="Tunnel-102-pin" circRot="0"/>
+
+Unique  Id: Connector-143: 
+Circuit Id: Connector-37
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Connector" Show_id="false" labelrot="0" endpinid="Node-101-1" x="-196" objectName="Connector-143" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" enodeid="Circ_eNode-141" y="-196" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Connector-37" pointList="-196,-196,-212,-196" startpinid="74XX93-106-MR2" circRot="0"/>
+
+Unique  Id: Connector-144: 
+Circuit Id: Connector-39
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Connector" Show_id="false" labelrot="0" endpinid="74XX93-106-MR1" x="-212" objectName="Connector-144" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" enodeid="Circ_eNode-141" y="-196" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Connector-39" pointList="-212,-196,-212,-204,-196,-204" startpinid="Node-101-2" circRot="0"/>
+
+Unique  Id: Connector-145: 
+Circuit Id: Connector-50
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Connector" Show_id="false" labelrot="0" endpinid="Switch-105-pinP0" x="-148" objectName="Connector-145" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" enodeid="Circ_eNode-146" y="-212" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Connector-50" pointList="-148,-212,-148,-228,-272,-228,-272,-184,-288,-184" startpinid="74XX93-106-CP0" circRot="0"/>
+
+Unique  Id: Connector-147: 
+Circuit Id: Connector-51
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Connector" Show_id="false" labelrot="0" endpinid="Node-95-0" x="-196" objectName="Connector-147" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" enodeid="Circ_eNode-148" y="-212" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Connector-51" pointList="-196,-212,-212,-212,-212,-236,-124,-236,-124,-196" startpinid="74XX93-106-CP1" circRot="0"/>
+
+Unique  Id: Connector-149: 
+Circuit Id: Connector-55
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Connector" Show_id="false" labelrot="0" endpinid="Node-85-0" x="-52" objectName="Connector-149" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" enodeid="Circ_eNode-148" y="-116" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Connector-55" pointList="-52,-116,-60,-116" startpinid="Memory-96-in0" circRot="0"/>
+
+Unique  Id: Connector-150: 
+Circuit Id: Connector-57
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Connector" Show_id="false" labelrot="0" endpinid="74XX93-106-Q0" x="-124" objectName="Connector-150" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" enodeid="Circ_eNode-148" y="-196" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Connector-57" pointList="-124,-196,-148,-196" startpinid="Node-95-2" circRot="0"/>
+
+Unique  Id: Connector-151: 
+Circuit Id: Connector-58
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Connector" Show_id="false" labelrot="0" endpinid="Node-84-0" x="-52" objectName="Connector-151" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" enodeid="Circ_eNode-152" y="-108" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Connector-58" pointList="-52,-108,-68,-108" startpinid="Memory-96-in1" circRot="0"/>
+
+Unique  Id: Connector-153: 
+Circuit Id: Connector-60
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Connector" Show_id="false" labelrot="0" endpinid="Node-94-1" x="-60" objectName="Connector-153" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" enodeid="Circ_eNode-148" y="-212" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Connector-60" pointList="-60,-212,-60,-196" startpinid="Probe-99-inpin" circRot="0"/>
+
+Unique  Id: Connector-154: 
+Circuit Id: Connector-62
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Connector" Show_id="false" labelrot="0" endpinid="Node-95-1" x="-60" objectName="Connector-154" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" enodeid="Circ_eNode-148" y="-196" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Connector-62" pointList="-60,-196,-124,-196" startpinid="Node-94-2" circRot="0"/>
+
+Unique  Id: Connector-155: 
+Circuit Id: Connector-63
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Connector" Show_id="false" labelrot="0" endpinid="Node-93-1" x="-76" objectName="Connector-155" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" enodeid="Circ_eNode-152" y="-212" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Connector-63" pointList="-76,-212,-76,-172" startpinid="Probe-100-inpin" circRot="0"/>
+
+Unique  Id: Connector-156: 
+Circuit Id: Connector-65
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Connector" Show_id="false" labelrot="0" endpinid="74XX93-106-Q1" x="-76" objectName="Connector-156" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" enodeid="Circ_eNode-152" y="-172" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Connector-65" pointList="-76,-172,-148,-172" startpinid="Node-93-2" circRot="0"/>
+
+Unique  Id: Connector-157: 
+Circuit Id: Connector-69
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Connector" Show_id="false" labelrot="0" endpinid="74XX93-106-Q3" x="-108" objectName="Connector-157" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" enodeid="Circ_eNode-158" y="-212" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Connector-69" pointList="-108,-212,-108,-188,-148,-188" startpinid="Probe-97-inpin" circRot="0"/>
+
+Unique  Id: Connector-159: 
+Circuit Id: Connector-72
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Connector" Show_id="false" labelrot="0" endpinid="Memory-96-Pin-We" x="-64" objectName="Connector-159" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" enodeid="Circ_eNode-160" y="-24" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Connector-72" pointList="-64,-24,-64,-60,-52,-60" startpinid="Rail-92-outnod" circRot="0"/>
+
+Unique  Id: Connector-161: 
+Circuit Id: Connector-74
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Connector" Show_id="false" labelrot="0" endpinid="Node-90-0" x="-52" objectName="Connector-161" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" enodeid="Circ_eNode-162" y="-52" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Connector-74" pointList="-52,-52,-52,-28,-28,-28" startpinid="Memory-96-Pin-outEnable" circRot="0"/>
+
+Unique  Id: Connector-163: 
+Circuit Id: Connector-75
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Connector" Show_id="false" labelrot="0" endpinid="Node-90-1" x="-28" objectName="Connector-163" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" enodeid="Circ_eNode-162" y="-20" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Connector-75" pointList="-28,-20,-28,-28" startpinid="Ground-91-Gnd" circRot="0"/>
+
+Unique  Id: Connector-164: 
+Circuit Id: Connector-77
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Connector" Show_id="false" labelrot="0" endpinid="Memory-96-Pin-Cs" x="-28" objectName="Connector-164" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" enodeid="Circ_eNode-162" y="-28" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Connector-77" pointList="-28,-28,-4,-28,-4,-52" startpinid="Node-90-2" circRot="0"/>
+
+Unique  Id: Connector-165: 
+Circuit Id: Connector-75
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Connector" Show_id="false" labelrot="0" endpinid="Node-89-1" x="-28" objectName="Connector-165" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" enodeid="Circ_eNode-166" y="164" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Connector-75" pointList="-28,164,-28,156" startpinid="Ground-86-Gnd" circRot="0"/>
+
+Unique  Id: Connector-167: 
+Circuit Id: Connector-72
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Connector" Show_id="false" labelrot="0" endpinid="Memory-87-Pin-We" x="-64" objectName="Connector-167" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" enodeid="Circ_eNode-168" y="160" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Connector-72" pointList="-64,160,-64,124,-52,124" startpinid="Rail-88-outnod" circRot="0"/>
+
+Unique  Id: Connector-169: 
+Circuit Id: Connector-74
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Connector" Show_id="false" labelrot="0" endpinid="Node-89-0" x="-52" objectName="Connector-169" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" enodeid="Circ_eNode-166" y="132" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Connector-74" pointList="-52,132,-52,156,-28,156" startpinid="Memory-87-Pin-outEnable" circRot="0"/>
+
+Unique  Id: Connector-170: 
+Circuit Id: Connector-77
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Connector" Show_id="false" labelrot="0" endpinid="Memory-87-Pin-Cs" x="-28" objectName="Connector-170" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" enodeid="Circ_eNode-166" y="156" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Connector-77" pointList="-28,156,-4,156,-4,132" startpinid="Node-89-2" circRot="0"/>
+
+Unique  Id: Connector-171: 
+Circuit Id: Connector-91
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Connector" Show_id="false" labelrot="0" endpinid="Node-85-1" x="-52" objectName="Connector-171" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" enodeid="Circ_eNode-148" y="68" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Connector-91" pointList="-52,68,-84,68,-84,-116,-60,-116" startpinid="Memory-87-in0" circRot="0"/>
+
+Unique  Id: Connector-172: 
+Circuit Id: Connector-93
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Connector" Show_id="false" labelrot="0" endpinid="Node-94-0" x="-60" objectName="Connector-172" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" enodeid="Circ_eNode-148" y="-116" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Connector-93" pointList="-60,-116,-60,-196" startpinid="Node-85-2" circRot="0"/>
+
+Unique  Id: Connector-173: 
+Circuit Id: Connector-94
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Connector" Show_id="false" labelrot="0" endpinid="Node-84-1" x="-52" objectName="Connector-173" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" enodeid="Circ_eNode-152" y="76" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Connector-94" pointList="-52,76,-88,76,-88,-108,-68,-108" startpinid="Memory-87-in1" circRot="0"/>
+
+Unique  Id: Connector-174: 
+Circuit Id: Connector-96
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Connector" Show_id="false" labelrot="0" endpinid="Node-93-0" x="-68" objectName="Connector-174" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" enodeid="Circ_eNode-152" y="-108" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Connector-96" pointList="-68,-108,-68,-172,-76,-172" startpinid="Node-84-2" circRot="0"/>
+
+Unique  Id: Connector-175: 
+Circuit Id: Connector-100
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Connector" Show_id="false" labelrot="0" endpinid="Node-70-0" x="-52" objectName="Connector-175" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" enodeid="Circ_eNode-176" y="-92" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Connector-100" pointList="-52,-92,-96,-92,-96,-60" startpinid="Memory-96-in3" circRot="0"/>
+
+Unique  Id: Connector-177: 
+Circuit Id: Connector-101
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Connector" Show_id="false" labelrot="0" endpinid="Node-69-0" x="-52" objectName="Connector-177" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" enodeid="Circ_eNode-178" y="100" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Connector-101" pointList="-52,100,-100,100,-100,-20" startpinid="Memory-87-in4" circRot="inf"/>
+
+Unique  Id: Connector-179: 
+Circuit Id: Connector-102
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Connector" Show_id="false" labelrot="0" endpinid="Node-68-0" x="-52" objectName="Connector-179" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" enodeid="Circ_eNode-180" y="-76" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Connector-102" pointList="-52,-76,-104,-76,-104,20" startpinid="Memory-96-in5" circRot="inf"/>
+
+Unique  Id: Connector-181: 
+Circuit Id: Connector-59
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Connector" Show_id="false" labelrot="0" endpinid="Node-81-0" x="-52" objectName="Connector-181" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" enodeid="Circ_eNode-182" y="-100" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Connector-59" pointList="-52,-100,-92,-100" startpinid="Memory-96-in2" circRot="0"/>
+
+Unique  Id: Connector-183: 
+Circuit Id: Connector-66
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Connector" Show_id="false" labelrot="0" endpinid="Node-82-0" x="-92" objectName="Connector-183" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" enodeid="Circ_eNode-184" y="-212" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Connector-66" pointList="-92,-212,-92,-164,-116,-164" startpinid="Probe-98-inpin" circRot="0"/>
+
+Unique  Id: Connector-185: 
+Circuit Id: Connector-104
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Connector" Show_id="false" labelrot="0" endpinid="Node-76-0" x="-160" objectName="Connector-185" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" enodeid="Circ_eNode-184" y="-104" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Connector-104" pointList="-160,-104,-180,-104" startpinid="And Gate-83-in0" circRot="0"/>
+
+Unique  Id: Connector-186: 
+Circuit Id: Connector-106
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Connector" Show_id="false" labelrot="0" endpinid="74XX93-106-Q2" x="-116" objectName="Connector-186" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" enodeid="Circ_eNode-184" y="-164" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Connector-106" pointList="-116,-164,-148,-164" startpinid="Node-82-2" circRot="0"/>
+
+Unique  Id: Connector-187: 
+Circuit Id: Connector-107
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Connector" Show_id="false" labelrot="0" endpinid="Node-81-1" x="-128" objectName="Connector-187" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" enodeid="Circ_eNode-182" y="-100" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Connector-107" pointList="-128,-100,-92,-100" startpinid="And Gate-83-out" circRot="0"/>
+
+Unique  Id: Connector-188: 
+Circuit Id: Connector-109
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Connector" Show_id="false" labelrot="0" endpinid="Memory-87-in2" x="-92" objectName="Connector-188" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" enodeid="Circ_eNode-182" y="-100" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Connector-109" pointList="-92,-100,-92,84,-52,84" startpinid="Node-81-2" circRot="0"/>
+
+Unique  Id: Connector-189: 
+Circuit Id: Connector-114
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Connector" Show_id="false" labelrot="0" endpinid="And Gate-83-in1" x="-200" objectName="Connector-189" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" enodeid="Circ_eNode-190" y="-96" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Connector-114" pointList="-200,-96,-160,-96" startpinid="Tunnel-80-pin" circRot="0"/>
+
+Unique  Id: Connector-191: 
+Circuit Id: Connector-115
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Connector" Show_id="false" labelrot="0" endpinid="Node-74-0" x="-156" objectName="Connector-191" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" enodeid="Circ_eNode-184" y="16" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Connector-115" pointList="-156,16,-180,16,-180,-24" startpinid="And Gate-77-in0" circRot="0"/>
+
+Unique  Id: Connector-192: 
+Circuit Id: Connector-117
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Connector" Show_id="false" labelrot="0" endpinid="Node-82-1" x="-180" objectName="Connector-192" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" enodeid="Circ_eNode-184" y="-104" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Connector-117" pointList="-180,-104,-180,-124,-116,-124,-116,-164" startpinid="Node-76-2" circRot="0"/>
+
+Unique  Id: Connector-193: 
+Circuit Id: Connector-118
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Connector" Show_id="false" labelrot="0" endpinid="Node-75-1" x="-160" objectName="Connector-193" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" enodeid="Circ_eNode-184" y="-64" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Connector-118" pointList="-160,-64,-180,-64" startpinid="And Gate-79-in0" circRot="0"/>
+
+Unique  Id: Connector-194: 
+Circuit Id: Connector-120
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Connector" Show_id="false" labelrot="0" endpinid="Node-76-1" x="-180" objectName="Connector-194" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" enodeid="Circ_eNode-184" y="-64" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Connector-120" pointList="-180,-64,-180,-104" startpinid="Node-75-2" circRot="0"/>
+
+Unique  Id: Connector-195: 
+Circuit Id: Connector-121
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Connector" Show_id="false" labelrot="0" endpinid="Node-74-1" x="-160" objectName="Connector-195" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" enodeid="Circ_eNode-184" y="-24" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Connector-121" pointList="-160,-24,-180,-24" startpinid="And Gate-78-in0" circRot="0"/>
+
+Unique  Id: Connector-196: 
+Circuit Id: Connector-123
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Connector" Show_id="false" labelrot="0" endpinid="Node-75-0" x="-180" objectName="Connector-196" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" enodeid="Circ_eNode-184" y="-24" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Connector-123" pointList="-180,-24,-180,-64" startpinid="Node-74-2" circRot="0"/>
+
+Unique  Id: Connector-197: 
+Circuit Id: Connector-127
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Connector" Show_id="false" labelrot="0" endpinid="Tunnel-73-pin" x="-160" objectName="Connector-197" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" enodeid="Circ_eNode-198" y="-56" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Connector-127" pointList="-160,-56,-200,-56" startpinid="And Gate-79-in1" circRot="0"/>
+
+Unique  Id: Connector-199: 
+Circuit Id: Connector-128
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Connector" Show_id="false" labelrot="0" endpinid="Tunnel-72-pin" x="-160" objectName="Connector-199" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" enodeid="Circ_eNode-200" y="-16" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Connector-128" pointList="-160,-16,-200,-16" startpinid="And Gate-78-in1" circRot="0"/>
+
+Unique  Id: Connector-201: 
+Circuit Id: Connector-129
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Connector" Show_id="false" labelrot="0" endpinid="Tunnel-71-pin" x="-156" objectName="Connector-201" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" enodeid="Circ_eNode-202" y="24" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Connector-129" pointList="-156,24,-200,24" startpinid="And Gate-77-in1" circRot="0"/>
+
+Unique  Id: Connector-203: 
+Circuit Id: Connector-130
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Connector" Show_id="false" labelrot="0" endpinid="Node-70-1" x="-128" objectName="Connector-203" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" enodeid="Circ_eNode-176" y="-60" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Connector-130" pointList="-128,-60,-96,-60" startpinid="And Gate-79-out" circRot="0"/>
+
+Unique  Id: Connector-204: 
+Circuit Id: Connector-132
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Connector" Show_id="false" labelrot="0" endpinid="Memory-87-in3" x="-96" objectName="Connector-204" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" enodeid="Circ_eNode-176" y="-60" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Connector-132" pointList="-96,-60,-96,92,-52,92" startpinid="Node-70-2" circRot="0"/>
+
+Unique  Id: Connector-205: 
+Circuit Id: Connector-133
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Connector" Show_id="false" labelrot="0" endpinid="Node-69-1" x="-128" objectName="Connector-205" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" enodeid="Circ_eNode-178" y="-20" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Connector-133" pointList="-128,-20,-100,-20" startpinid="And Gate-78-out" circRot="0"/>
+
+Unique  Id: Connector-206: 
+Circuit Id: Connector-135
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Connector" Show_id="false" labelrot="0" endpinid="Memory-96-in4" x="-100" objectName="Connector-206" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" enodeid="Circ_eNode-178" y="-20" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Connector-135" pointList="-100,-20,-100,-84,-52,-84" startpinid="Node-69-2" circRot="0"/>
+
+Unique  Id: Connector-207: 
+Circuit Id: Connector-136
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Connector" Show_id="false" labelrot="0" endpinid="Node-68-1" x="-124" objectName="Connector-207" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" enodeid="Circ_eNode-180" y="20" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Connector-136" pointList="-124,20,-104,20" startpinid="And Gate-77-out" circRot="1.6173854177379103e+82"/>
+
+Unique  Id: Connector-208: 
+Circuit Id: Connector-138
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Connector" Show_id="false" labelrot="0" endpinid="Memory-87-in5" x="-104" objectName="Connector-208" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" enodeid="Circ_eNode-180" y="20" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Connector-138" pointList="-104,20,-104,108,-52,108" startpinid="Node-68-2" circRot="1.2000918096287942e-309"/>
+
+Unique  Id: Connector-209: 
+Circuit Id: Connector-159
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Connector" Show_id="false" labelrot="0" endpinid="FlipFlopD-66-in3" x="144" objectName="Connector-209" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" enodeid="Circ_eNode-210" y="340" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Connector-159" pointList="144,340,172,340" startpinid="Buffer-48-out" circRot="0"/>
+
+Unique  Id: Connector-211: 
+Circuit Id: Connector-161
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Connector" Show_id="false" labelrot="0" endpinid="74HC74-67-CP1" x="148" objectName="Connector-211" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" enodeid="Circ_eNode-212" y="476" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Connector-161" pointList="148,476,172,476" startpinid="Buffer-47-out" circRot="0"/>
+
+Unique  Id: Connector-213: 
+Circuit Id: Connector-162
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Connector" Show_id="false" labelrot="0" endpinid="Buffer-48-in0" x="100" objectName="Connector-213" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" enodeid="Circ_eNode-214" y="340" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Connector-162" pointList="100,340,112,340" startpinid="Fixed Voltage-63-outnod" circRot="0"/>
+
+Unique  Id: Connector-215: 
+Circuit Id: Connector-163
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Connector" Show_id="false" labelrot="0" endpinid="Buffer-47-in0" x="100" objectName="Connector-215" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" enodeid="Circ_eNode-216" y="476" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Connector-163" pointList="100,476,116,476" startpinid="Fixed Voltage-57-outnod" circRot="0"/>
+
+Unique  Id: Connector-217: 
+Circuit Id: Connector-164
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Connector" Show_id="false" labelrot="0" endpinid="FlipFlopD-66-in1" x="140" objectName="Connector-217" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" enodeid="Circ_eNode-218" y="304" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Connector-164" pointList="140,304,188,304,188,316" startpinid="Fixed Voltage-64-outnod" circRot="0"/>
+
+Unique  Id: Connector-219: 
+Circuit Id: Connector-165
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Connector" Show_id="false" labelrot="0" endpinid="FlipFlopD-66-in2" x="144" objectName="Connector-219" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" enodeid="Circ_eNode-220" y="372" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Connector-165" pointList="144,372,196,372,196,356" startpinid="Fixed Voltage-65-outnod" circRot="0"/>
+
+Unique  Id: Connector-221: 
+Circuit Id: Connector-166
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Connector" Show_id="false" labelrot="0" endpinid="74HC74-67-!RD1" x="148" objectName="Connector-221" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" enodeid="Circ_eNode-222" y="448" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Connector-166" pointList="148,448,172,448,172,460" startpinid="Fixed Voltage-62-outnod" circRot="0"/>
+
+Unique  Id: Connector-223: 
+Circuit Id: Connector-167
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Connector" Show_id="false" labelrot="0" endpinid="74HC74-67-!SD1" x="148" objectName="Connector-223" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" enodeid="Circ_eNode-224" y="504" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Connector-167" pointList="148,504,148,484,172,484" startpinid="Fixed Voltage-58-outnod" circRot="0"/>
+
+Unique  Id: Connector-225: 
+Circuit Id: Connector-169
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Connector" Show_id="false" labelrot="0" endpinid="Node-46-0" x="172" objectName="Connector-225" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" enodeid="Circ_eNode-226" y="500" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Connector-169" pointList="172,500,160,500" startpinid="74HC74-67-!Q1" circRot="0"/>
+
+Unique  Id: Connector-227: 
+Circuit Id: Connector-170
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Connector" Show_id="false" labelrot="0" endpinid="Probe-52-inpin" x="172" objectName="Connector-227" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" enodeid="Circ_eNode-228" y="492" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Connector-170" pointList="172,492,152,492,152,548,264,548,264,480" startpinid="74HC74-67-Q1" circRot="0"/>
+
+Unique  Id: Connector-229: 
+Circuit Id: Connector-172
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Connector" Show_id="false" labelrot="0" endpinid="74HC74-67-D1" x="160" objectName="Connector-229" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" enodeid="Circ_eNode-226" y="500" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Connector-172" pointList="160,500,160,468,172,468" startpinid="Node-46-2" circRot="0"/>
+
+Unique  Id: Connector-230: 
+Circuit Id: Connector-173
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Connector" Show_id="false" labelrot="0" endpinid="Probe-51-inpin" x="160" objectName="Connector-230" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" enodeid="Circ_eNode-226" y="500" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Connector-173" pointList="160,500,160,528,284,528" startpinid="Node-46-1" circRot="0"/>
+
+Unique  Id: Connector-231: 
+Circuit Id: Connector-174
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Connector" Show_id="false" labelrot="0" endpinid="Node-45-0" x="212" objectName="Connector-231" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" enodeid="Circ_eNode-232" y="340" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Connector-174" pointList="212,340,228,340" startpinid="FlipFlopD-66-out1" circRot="0"/>
+
+Unique  Id: Connector-233: 
+Circuit Id: Connector-175
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Connector" Show_id="false" labelrot="0" endpinid="Node-45-1" x="276" objectName="Connector-233" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" enodeid="Circ_eNode-232" y="344" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Connector-175" pointList="276,344,228,344,228,340" startpinid="Probe-55-inpin" circRot="0"/>
+
+Unique  Id: Connector-234: 
+Circuit Id: Connector-177
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Connector" Show_id="false" labelrot="0" endpinid="FlipFlopD-66-in0" x="228" objectName="Connector-234" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" enodeid="Circ_eNode-232" y="340" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Connector-177" pointList="228,340,228,280,172,280,172,332" startpinid="Node-45-2" circRot="0"/>
+
+Unique  Id: Connector-235: 
+Circuit Id: Connector-178
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Connector" Show_id="false" labelrot="0" endpinid="FlipFlopD-66-out0" x="264" objectName="Connector-235" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" enodeid="Circ_eNode-236" y="304" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Connector-178" pointList="264,304,264,332,212,332" startpinid="Probe-56-inpin" circRot="0"/>
+
+Unique  Id: Connector-237: 
+Circuit Id: Connector-183
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Connector" Show_id="false" labelrot="0" endpinid="Memory-96-out0" x="52" objectName="Connector-237" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" enodeid="Circ_eNode-238" y="-124" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Connector-183" pointList="52,-124,52,-116,-4,-116" startpinid="Buffer-43-in0" circRot="0"/>
+
+Unique  Id: Connector-239: 
+Circuit Id: Connector-186
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Connector" Show_id="false" labelrot="0" endpinid="Tunnel-41-pin" x="84" objectName="Connector-239" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" enodeid="Circ_eNode-240" y="-124" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Connector-186" pointList="84,-124,356,-124" startpinid="Buffer-43-out" circRot="0"/>
+
+Unique  Id: Connector-241: 
+Circuit Id: Connector-188
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Connector" Show_id="false" labelrot="0" endpinid="Tunnel-40-pin" x="-4" objectName="Connector-241" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" enodeid="Circ_eNode-242" y="-108" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Connector-188" pointList="-4,-108,356,-108" startpinid="Memory-96-out1" circRot="0"/>
+
+Unique  Id: Connector-243: 
+Circuit Id: Connector-189
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Connector" Show_id="false" labelrot="0" endpinid="Buffer-42-in0" x="-4" objectName="Connector-243" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" enodeid="Circ_eNode-244" y="-100" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Connector-189" pointList="-4,-100,52,-100,52,-92" startpinid="Memory-96-out2" circRot="0"/>
+
+Unique  Id: Connector-245: 
+Circuit Id: Connector-191
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Connector" Show_id="false" labelrot="0" endpinid="Tunnel-39-pin" x="84" objectName="Connector-245" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" enodeid="Circ_eNode-246" y="-92" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Connector-191" pointList="84,-92,356,-92" startpinid="Buffer-42-out" circRot="0"/>
+
+Unique  Id: Connector-247: 
+Circuit Id: Connector-193
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Connector" Show_id="false" labelrot="0" endpinid="Memory-96-out3" x="356" objectName="Connector-247" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" enodeid="Circ_eNode-248" y="-80" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Connector-193" pointList="356,-80,44,-80,44,-92,-4,-92" startpinid="Tunnel-38-pin" circRot="0"/>
+
+Unique  Id: Connector-249: 
+Circuit Id: Connector-195
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Connector" Show_id="false" labelrot="0" endpinid="Memory-96-out4" x="356" objectName="Connector-249" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" enodeid="Circ_eNode-250" y="-68" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Connector-195" pointList="356,-68,36,-68,36,-84,-4,-84" startpinid="Tunnel-37-pin" circRot="0"/>
+
+Unique  Id: Connector-251: 
+Circuit Id: Connector-197
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Connector" Show_id="false" labelrot="0" endpinid="Memory-96-out5" x="356" objectName="Connector-251" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" enodeid="Circ_eNode-252" y="-56" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Connector-197" pointList="356,-56,28,-56,28,-76,-4,-76" startpinid="Tunnel-36-pin" circRot="0"/>
+
+Unique  Id: Connector-253: 
+Circuit Id: Connector-200
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Connector" Show_id="false" labelrot="0" endpinid="Tunnel-34-pin" x="84" objectName="Connector-253" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" enodeid="Circ_eNode-254" y="-44" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Connector-200" pointList="84,-44,356,-44" startpinid="Buffer-35-out" circRot="0"/>
+
+Unique  Id: Connector-255: 
+Circuit Id: Connector-201
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Connector" Show_id="false" labelrot="0" endpinid="Memory-96-out6" x="52" objectName="Connector-255" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" enodeid="Circ_eNode-256" y="-44" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Connector-201" pointList="52,-44,20,-44,20,-68,-4,-68" startpinid="Buffer-35-in0" circRot="0"/>
+
+Unique  Id: Connector-257: 
+Circuit Id: Connector-203
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Connector" Show_id="false" labelrot="0" endpinid="Buffer-33-in0" x="-4" objectName="Connector-257" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" enodeid="Circ_eNode-258" y="-60" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Connector-203" pointList="-4,-60,12,-60,12,-24,52,-24" startpinid="Memory-96-out7" circRot="0"/>
+
+Unique  Id: Connector-259: 
+Circuit Id: Connector-205
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Connector" Show_id="false" labelrot="0" endpinid="Buffer-33-out" x="356" objectName="Connector-259" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" enodeid="Circ_eNode-260" y="-24" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Connector-205" pointList="356,-24,84,-24" startpinid="Tunnel-32-pin" circRot="0"/>
+
+Unique  Id: Connector-261: 
+Circuit Id: Connector-208
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Connector" Show_id="false" labelrot="0" endpinid="FlipFlopD-30-in3" x="88" objectName="Connector-261" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" enodeid="Circ_eNode-262" y="32" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Connector-208" pointList="88,32,128,32" startpinid="Buffer-31-out" circRot="0"/>
+
+Unique  Id: Connector-263: 
+Circuit Id: Connector-209
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Connector" Show_id="false" labelrot="0" endpinid="Node-20-0" x="168" objectName="Connector-263" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" enodeid="Circ_eNode-264" y="32" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Connector-209" pointList="168,32,184,32,184,-4" startpinid="FlipFlopD-30-out1" circRot="0"/>
+
+Unique  Id: Connector-265: 
+Circuit Id: Connector-208
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Connector" Show_id="false" labelrot="0" endpinid="FlipFlopD-29-in3" x="88" objectName="Connector-265" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" enodeid="Circ_eNode-266" y="60" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Connector-208" pointList="88,60,200,60" startpinid="Buffer-28-out" circRot="0"/>
+
+Unique  Id: Connector-267: 
+Circuit Id: Connector-209
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Connector" Show_id="false" labelrot="0" endpinid="Node-18-0" x="240" objectName="Connector-267" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" enodeid="Circ_eNode-268" y="60" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Connector-209" pointList="240,60,256,60,256,24" startpinid="FlipFlopD-29-out1" circRot="0"/>
+
+Unique  Id: Connector-269: 
+Circuit Id: Connector-208
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Connector" Show_id="false" labelrot="0" endpinid="FlipFlopD-27-in3" x="88" objectName="Connector-269" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" enodeid="Circ_eNode-270" y="88" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Connector-208" pointList="88,88,272,88" startpinid="Buffer-26-out" circRot="0"/>
+
+Unique  Id: Connector-271: 
+Circuit Id: Connector-209
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Connector" Show_id="false" labelrot="0" endpinid="Node-16-0" x="312" objectName="Connector-271" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" enodeid="Circ_eNode-272" y="88" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Connector-209" pointList="312,88,328,88,328,52" startpinid="FlipFlopD-27-out1" circRot="0"/>
+
+Unique  Id: Connector-273: 
+Circuit Id: Connector-226
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Connector" Show_id="false" labelrot="0" endpinid="Memory-87-out0" x="56" objectName="Connector-273" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" enodeid="Circ_eNode-274" y="32" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Connector-226" pointList="56,32,48,32,48,68,-4,68" startpinid="Buffer-31-in0" circRot="0"/>
+
+Unique  Id: Connector-275: 
+Circuit Id: Connector-227
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Connector" Show_id="false" labelrot="0" endpinid="Memory-87-out1" x="56" objectName="Connector-275" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" enodeid="Circ_eNode-276" y="60" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Connector-227" pointList="56,60,56,76,-4,76" startpinid="Buffer-28-in0" circRot="0"/>
+
+Unique  Id: Connector-277: 
+Circuit Id: Connector-228
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Connector" Show_id="false" labelrot="0" endpinid="Memory-87-out2" x="56" objectName="Connector-277" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" enodeid="Circ_eNode-278" y="88" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Connector-228" pointList="56,88,56,84,-4,84" startpinid="Buffer-26-in0" circRot="0"/>
+
+Unique  Id: Connector-279: 
+Circuit Id: Connector-229
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Connector" Show_id="false" labelrot="0" endpinid="Memory-87-out3" x="88" objectName="Connector-279" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" enodeid="Circ_eNode-280" y="108" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Connector-229" pointList="88,108,48,108,48,92,-4,92" startpinid="Buffer-25-in0" circRot="0"/>
+
+Unique  Id: Connector-281: 
+Circuit Id: Connector-233
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Connector" Show_id="false" labelrot="0" endpinid="Node-20-1" x="356" objectName="Connector-281" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" enodeid="Circ_eNode-264" y="-4" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Connector-233" pointList="356,-4,184,-4" startpinid="Tunnel-21-pin" circRot="0"/>
+
+Unique  Id: Connector-282: 
+Circuit Id: Connector-235
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Connector" Show_id="false" labelrot="0" endpinid="FlipFlopD-30-in0" x="184" objectName="Connector-282" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" enodeid="Circ_eNode-264" y="-4" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Connector-235" pointList="184,-4,128,-4,128,24" startpinid="Node-20-2" circRot="0"/>
+
+Unique  Id: Connector-283: 
+Circuit Id: Connector-237
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Connector" Show_id="false" labelrot="0" endpinid="Node-18-1" x="356" objectName="Connector-283" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" enodeid="Circ_eNode-268" y="24" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Connector-237" pointList="356,24,256,24" startpinid="Tunnel-19-pin" circRot="0"/>
+
+Unique  Id: Connector-284: 
+Circuit Id: Connector-239
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Connector" Show_id="false" labelrot="0" endpinid="FlipFlopD-29-in0" x="256" objectName="Connector-284" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" enodeid="Circ_eNode-268" y="24" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Connector-239" pointList="256,24,200,24,200,52" startpinid="Node-18-2" circRot="0"/>
+
+Unique  Id: Connector-285: 
+Circuit Id: Connector-241
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Connector" Show_id="false" labelrot="0" endpinid="Node-16-1" x="356" objectName="Connector-285" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" enodeid="Circ_eNode-272" y="52" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Connector-241" pointList="356,52,328,52" startpinid="Tunnel-17-pin" circRot="0"/>
+
+Unique  Id: Connector-286: 
+Circuit Id: Connector-243
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Connector" Show_id="false" labelrot="0" endpinid="FlipFlopD-27-in0" x="328" objectName="Connector-286" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" enodeid="Circ_eNode-272" y="52" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Connector-243" pointList="328,52,272,52,272,80" startpinid="Node-16-2" circRot="0"/>
+
+Unique  Id: Connector-287: 
+Circuit Id: Connector-245
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Connector" Show_id="false" labelrot="0" endpinid="Buffer-25-out" x="356" objectName="Connector-287" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" enodeid="Circ_eNode-288" y="116" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Connector-245" pointList="356,116,252,116,252,108,120,108" startpinid="Tunnel-15-pin" circRot="0"/>
+
+Unique  Id: Connector-289: 
+Circuit Id: Connector-248
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Connector" Show_id="false" labelrot="0" endpinid="Memory-87-out4" x="356" objectName="Connector-289" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" enodeid="Circ_eNode-290" y="128" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Connector-248" pointList="356,128,244,128,244,124,40,124,40,100,-4,100" startpinid="Tunnel-14-pin" circRot="0"/>
+
+Unique  Id: Connector-291: 
+Circuit Id: Connector-250
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Connector" Show_id="false" labelrot="0" endpinid="Buffer-24-out" x="356" objectName="Connector-291" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" enodeid="Circ_eNode-292" y="140" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Connector-250" pointList="356,140,92,140" startpinid="Tunnel-13-pin" circRot="0"/>
+
+Unique  Id: Connector-293: 
+Circuit Id: Connector-251
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Connector" Show_id="false" labelrot="0" endpinid="Memory-87-out5" x="60" objectName="Connector-293" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" enodeid="Circ_eNode-294" y="140" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Connector-251" pointList="60,140,32,140,32,108,-4,108" startpinid="Buffer-24-in0" circRot="0"/>
+
+Unique  Id: Connector-295: 
+Circuit Id: Connector-253
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Connector" Show_id="false" labelrot="0" endpinid="Buffer-23-out" x="356" objectName="Connector-295" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" enodeid="Circ_eNode-296" y="156" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Connector-253" pointList="356,156,120,156" startpinid="Tunnel-12-pin" circRot="0"/>
+
+Unique  Id: Connector-297: 
+Circuit Id: Connector-254
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Connector" Show_id="false" labelrot="0" endpinid="Memory-87-out6" x="88" objectName="Connector-297" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" enodeid="Circ_eNode-298" y="156" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Connector-254" pointList="88,156,24,156,24,116,-4,116" startpinid="Buffer-23-in0" circRot="0"/>
+
+Unique  Id: Connector-299: 
+Circuit Id: Connector-256
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Connector" Show_id="false" labelrot="0" endpinid="Buffer-22-out" x="356" objectName="Connector-299" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" enodeid="Circ_eNode-300" y="172" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Connector-256" pointList="356,172,92,172" startpinid="Tunnel-11-pin" circRot="0"/>
+
+Unique  Id: Connector-301: 
+Circuit Id: Connector-257
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Connector" Show_id="false" labelrot="0" endpinid="Memory-87-out7" x="60" objectName="Connector-301" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" enodeid="Circ_eNode-302" y="172" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Connector-257" pointList="60,172,16,172,16,124,-4,124" startpinid="Buffer-22-in0" circRot="0"/>
+
+Unique  Id: Connector-303: 
+Circuit Id: Connector-261
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Connector" Show_id="false" labelrot="0" endpinid="Resistor-9-lPin" x="216" objectName="Connector-303" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" enodeid="Circ_eNode-304" y="-208" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Connector-261" pointList="216,-208,216,-192" startpinid="Rail-10-outnod" circRot="0"/>
+
+Unique  Id: Connector-305: 
+Circuit Id: Connector-269
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Connector" Show_id="false" labelrot="0" endpinid="Node-6-0" x="36" objectName="Connector-305" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" enodeid="Circ_eNode-306" y="188" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Connector-269" pointList="36,188,152,188" startpinid="Tunnel-8-pin" circRot="0"/>
+
+Unique  Id: Connector-307: 
+Circuit Id: Connector-270
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Connector" Show_id="false" labelrot="0" endpinid="Node-7-1" x="224" objectName="Connector-307" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" enodeid="Circ_eNode-306" y="76" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Connector-270" pointList="224,76,224,188" startpinid="FlipFlopD-29-in2" circRot="0"/>
+
+Unique  Id: Connector-308: 
+Circuit Id: Connector-272
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Connector" Show_id="false" labelrot="0" endpinid="FlipFlopD-27-in2" x="224" objectName="Connector-308" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" enodeid="Circ_eNode-306" y="188" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Connector-272" pointList="224,188,296,188,296,104" startpinid="Node-7-2" circRot="0"/>
+
+Unique  Id: Connector-309: 
+Circuit Id: Connector-273
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Connector" Show_id="false" labelrot="0" endpinid="Node-6-1" x="152" objectName="Connector-309" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" enodeid="Circ_eNode-306" y="48" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Connector-273" pointList="152,48,152,188" startpinid="FlipFlopD-30-in2" circRot="0"/>
+
+Unique  Id: Connector-310: 
+Circuit Id: Connector-275
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Connector" Show_id="false" labelrot="0" endpinid="Node-7-0" x="152" objectName="Connector-310" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" enodeid="Circ_eNode-306" y="188" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Connector-275" pointList="152,188,224,188" startpinid="Node-6-2" circRot="0"/>
+
+Unique  Id: Connector-311: 
+Circuit Id: Connector-279
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Connector" Show_id="false" labelrot="0" endpinid="Node-3-0" x="216" objectName="Connector-311" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" enodeid="Circ_eNode-312" y="36" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Connector-279" pointList="216,36,216,-140" startpinid="FlipFlopD-29-in1" circRot="0"/>
+
+Unique  Id: Connector-313: 
+Circuit Id: Connector-280
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Connector" Show_id="false" labelrot="0" endpinid="Node-3-1" x="144" objectName="Connector-313" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" enodeid="Circ_eNode-312" y="8" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Connector-280" pointList="144,8,144,-140,216,-140" startpinid="FlipFlopD-30-in1" circRot="0"/>
+
+Unique  Id: Connector-314: 
+Circuit Id: Connector-282
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Connector" Show_id="false" labelrot="0" endpinid="Node-2-0" x="216" objectName="Connector-314" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" enodeid="Circ_eNode-312" y="-140" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Connector-282" pointList="216,-140,216,-144" startpinid="Node-3-2" circRot="0"/>
+
+Unique  Id: Connector-315: 
+Circuit Id: Connector-283
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Connector" Show_id="false" labelrot="0" endpinid="Node-2-1" x="288" objectName="Connector-315" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" enodeid="Circ_eNode-312" y="64" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Connector-283" pointList="288,64,288,-144,216,-144" startpinid="FlipFlopD-27-in1" circRot="0"/>
+
+Unique  Id: Connector-316: 
+Circuit Id: Connector-285
+<item boardPos="-1e+06,-1e+06" labelx="-16" itemtype="Connector" Show_id="false" labelrot="0" endpinid="Resistor-9-rPin" x="216" objectName="Connector-316" circPos="0,0" mainComp="false" valLabelx="0" hflip="1" enodeid="Circ_eNode-312" y="-144" labely="-24" valLabRot="0" valLabely="0" boardRot="-1000000" vflip="1" rotation="0" id="Connector-285" pointList="216,-144,216,-160" startpinid="Node-2-2" circRot="0"/>
+ 
+</circuit>
