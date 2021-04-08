@@ -13,7 +13,7 @@ Once installed you can open with this software the .simu file.
 
 The .data-files are to be uploaded to Rom-0 and Rom-1 respectively.
 
-More background about this project:
+More details about this project:
 
 https://simulide.forumotion.com/t165-simple-4bit-cpu#806
 
