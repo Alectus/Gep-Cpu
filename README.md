@@ -17,3 +17,5 @@ More details about this project:
 
 https://simulide.forumotion.com/t165-simple-4bit-cpu#806
 
+Files with title Part3 are the most recent and probably the last.
+
